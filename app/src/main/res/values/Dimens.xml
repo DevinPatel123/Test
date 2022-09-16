@@ -4,7 +4,7 @@
     <dimen name="textViewHeight">40dp</dimen>
     <dimen name="editViewWidth">300dp</dimen>
     <dimen name="editTextHeight">60dp</dimen>
-    <dimen name="buttonWidth">70dp</dimen>
+    <dimen name="buttonWidth">170dp</dimen>
     <dimen name="buttonHeight">60dp</dimen>
     <dimen name="SmallerButtonWidth">35dp</dimen>
     <dimen name="SmallerButtonHeight">30dp</dimen>
